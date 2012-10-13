@@ -1,4 +1,4 @@
 phynance
 ========
 
-A collection of Python scripts for finance
+Phynance is a collection of Python scripts useful for financial calculations
